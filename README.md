@@ -2,6 +2,6 @@ Use this docker image if you need jupyter python notebooks with the CERN ROOT li
 
 Run with e.g.
 
-`docker run -p 3000:8080 pedwink/pyroot-notebook`
+`docker run -p 3000:8080 cohm/pyroot-notebook`
 
 and then access through localhost:3000 in your browser.
