@@ -4,4 +4,4 @@ Run with e.g.
 
 `docker run -p 3000:8080 cohm/pyroot-notebook`
 
-and then access through localhost:3000 in your browser.
+and then access by going to localhost:3000 in your browser.
