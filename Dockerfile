@@ -2,8 +2,8 @@ FROM rootproject/root:latest
 
 WORKDIR /work
 
-RUN sudo apt update
-RUN sudo apt install python3-pip
+RUN apt update
+RUN apt install python3-pip
 
 RUN python3 -m pip install --upgrade pip # This causes error, skipping
 
